@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/douglasbrandao00/management-accounting/issues"
   },
-  "homepage": "https://github.com/douglasbrandao00/management-accounting#readme"
+  "homepage": "https://github.com/douglasbrandao00/management-accounting#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
